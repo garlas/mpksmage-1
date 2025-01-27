@@ -29,10 +29,10 @@
                                             </td>
                                         </tr>
                                         <tr style="background-color: #ffffff; text-align: left;">
-                                            <th style="padding: 12px;">Email</th>
-                                            <td style="padding: 12px;">
-                                                <a href="mailto:garinnugroho1345@gmail.com style="color: #007bff; text-decoration: none; font-weight: bold;">
-                                                garinnugroho1345@gmail.com
+                                            <th style="padding: 10px;">Email</th>
+                                            <td style="padding: 10px;">
+                                                <a href="mailto:mpksmage@gmail.com style="color: #007bff; text-decoration: none; font-weight: bold;">
+                                                mpksmage@gmail.com
                                                 </a>
                                             </td>
                                         </tr>
