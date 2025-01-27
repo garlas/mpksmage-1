@@ -1,0 +1,434 @@
+[23-Jan-2025 04:17:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:17:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:17:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:18:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:18:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:18:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 8
+[23-Jan-2025 04:18:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[23-Jan-2025 04:18:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:18:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:19:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:20:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:20:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:21:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:21:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:21:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:21:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:21:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 19
+[23-Jan-2025 04:21:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 20
+[23-Jan-2025 04:21:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 21
+[23-Jan-2025 04:21:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:21:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:21:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:22:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:22:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:22:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:22:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:22:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:27:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:28:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:29:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:29:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:32:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:34:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:38:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:38:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:39:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:39:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:39:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:39:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:39:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:39:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:40:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:48:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/ajax.php on line 6
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/ajax.php on line 7
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:48:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:49:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:49:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:49:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:49:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 8
+[23-Jan-2025 04:49:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[23-Jan-2025 04:51:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 04:52:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:02:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 05:53:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:44:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 06:53:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 07:17:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 10:19:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 10:26:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 10:35:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:20:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:21:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:21:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:21:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 11:57:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 13:37:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 13:37:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 14:34:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 15:02:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 15:38:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 15:38:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 15:38:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/login_act.php on line 19
+[23-Jan-2025 15:38:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 20
+[23-Jan-2025 15:38:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 21
+[23-Jan-2025 15:38:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 15:38:22 UTC] PHP Notice:  Undefined index: username in /home/rsmagesi/public_html/login_act.php on line 3
+[23-Jan-2025 15:38:22 UTC] PHP Notice:  Undefined index: password in /home/rsmagesi/public_html/login_act.php on line 4
+[23-Jan-2025 15:38:22 UTC] PHP Notice:  Undefined index: hak_akses in /home/rsmagesi/public_html/login_act.php on line 5
+[23-Jan-2025 16:03:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 16:42:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 17:55:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 17:55:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 17:55:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 17:55:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 17:55:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 19:14:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 19:14:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 19:14:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 19:14:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 20:15:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[23-Jan-2025 20:34:36 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[23-Jan-2025 20:34:36 UTC] PHP Warning:  Module 'json' already loaded in Unknown on line 0
+[23-Jan-2025 21:27:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 00:27:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 00:27:20 UTC] PHP Notice:  Undefined index: id_pasien in /home/rsmagesi/public_html/pengaduan_act.php on line 4
+[24-Jan-2025 00:27:20 UTC] PHP Notice:  Undefined index: isi in /home/rsmagesi/public_html/pengaduan_act.php on line 6
+[24-Jan-2025 00:27:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 8
+[24-Jan-2025 00:27:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[24-Jan-2025 00:28:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 00:28:15 UTC] PHP Notice:  Undefined index: username in /home/rsmagesi/public_html/login_act.php on line 3
+[24-Jan-2025 00:28:15 UTC] PHP Notice:  Undefined index: password in /home/rsmagesi/public_html/login_act.php on line 4
+[24-Jan-2025 00:28:15 UTC] PHP Notice:  Undefined index: hak_akses in /home/rsmagesi/public_html/login_act.php on line 5
+[24-Jan-2025 01:38:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 01:51:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:18:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:21:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:31:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:43:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:52:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 02:57:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 03:03:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 04:59:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 06:33:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 07:21:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 07:59:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 12:01:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 13:22:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 14:06:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 15:50:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 18:30:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 18:30:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 18:30:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 20:32:40 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[24-Jan-2025 20:32:40 UTC] PHP Warning:  Module 'json' already loaded in Unknown on line 0
+[24-Jan-2025 20:51:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 20:51:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[24-Jan-2025 21:46:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[25-Jan-2025 01:35:38 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[25-Jan-2025 01:57:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[25-Jan-2025 02:27:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[25-Jan-2025 07:25:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rsmagesi/public_html/koneksi.php on line 2
+[25-Jan-2025 08:32:42 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:34:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:34:23 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:34:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:34:26 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:34:42 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 7
+[25-Jan-2025 08:36:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 11
+[25-Jan-2025 08:36:33 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 11
+[25-Jan-2025 08:39:10 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'rsmagesi_web_db'@'localhost' to database 'rsmagesi_web_db' in /home/rsmagesi/public_html/koneksi.php on line 11
+[25-Jan-2025 08:42:23 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:42:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:42:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 08:43:29 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 19
+[25-Jan-2025 08:43:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 19
+[25-Jan-2025 08:43:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 20
+[25-Jan-2025 08:43:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 21
+[25-Jan-2025 08:53:30 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:53:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:53:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 08:53:48 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:53:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:53:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 08:57:13 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 08:57:20 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 08:57:37 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 08:57:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 09:02:09 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:02:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:02:09 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:02:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:02:09 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:02:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:02:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:02:25 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:02:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:02:25 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:02:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:02:25 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:02:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:02:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:09:10 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:09:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:09:10 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:09:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:09:10 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:09:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:09:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:09:24 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:09:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:09:24 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:09:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:09:24 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:09:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:09:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:16:29 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:16:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:16:29 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:16:29 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:17:35 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:17:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:17:35 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:17:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:17:35 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:17:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:17:35 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:17:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:18:40 UTC] PHP Notice:  Undefined index: username in /home/rsmagesi/public_html/login_act.php on line 3
+[25-Jan-2025 09:18:40 UTC] PHP Notice:  Undefined index: password in /home/rsmagesi/public_html/login_act.php on line 4
+[25-Jan-2025 09:18:40 UTC] PHP Notice:  Undefined index: hak_akses in /home/rsmagesi/public_html/login_act.php on line 5
+[25-Jan-2025 09:18:56 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 09:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 8
+[25-Jan-2025 09:18:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/login_act.php on line 9
+[25-Jan-2025 09:19:44 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:19:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 09:19:44 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:19:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 7
+[25-Jan-2025 09:19:44 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:19:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 12
+[25-Jan-2025 09:19:44 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:19:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/login_act.php on line 13
+[25-Jan-2025 09:30:15 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/login_act.php on line 6
+[25-Jan-2025 10:13:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:13:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:13:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:13:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:13:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:14:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[25-Jan-2025 10:34:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:37:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:37:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[25-Jan-2025 10:38:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[25-Jan-2025 10:38:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:38:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[25-Jan-2025 10:42:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:42:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:52:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:53:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 9
+[25-Jan-2025 10:55:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 10:59:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 11:04:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 11:16:39 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:39 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:39 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:43 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:43 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:43 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:48 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:48 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:48 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:48 UTC] PHP Notice:  Undefined variable: conn in /home/rsmagesi/public_html/login.php on line 27
+[25-Jan-2025 11:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rsmagesi/public_html/login.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/login.php on line 27
+[25-Jan-2025 11:16:59 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:59 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:16:59 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:17:06 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:17:06 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:17:06 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rsmagesi/public_html/login.php on line 5
+[25-Jan-2025 11:17:06 UTC] PHP Notice:  Undefined variable: conn in /home/rsmagesi/public_html/login.php on line 27
+[25-Jan-2025 11:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/rsmagesi/public_html/login.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/login.php on line 27
+[25-Jan-2025 11:33:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 11:33:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 11
+[25-Jan-2025 13:41:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[25-Jan-2025 13:41:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 11
+[25-Jan-2025 20:30:24 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[25-Jan-2025 20:30:24 UTC] PHP Warning:  Module 'json' already loaded in Unknown on line 0
+[26-Jan-2025 05:10:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[26-Jan-2025 05:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/rsmagesi/public_html/pengaduan_act.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 17
+[26-Jan-2025 05:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/rsmagesi/public_html/pengaduan_act.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 17
+[26-Jan-2025 05:11:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[26-Jan-2025 05:11:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/rsmagesi/public_html/pengaduan_act.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 17
+[26-Jan-2025 05:12:05 UTC] PHP Notice:  Undefined index: id_pasien in /home/rsmagesi/public_html/pengaduan_act.php on line 5
+[26-Jan-2025 05:12:05 UTC] PHP Notice:  Undefined index: isi in /home/rsmagesi/public_html/pengaduan_act.php on line 6
+[26-Jan-2025 05:14:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[26-Jan-2025 05:16:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/ajax.php on line 7
+[26-Jan-2025 05:16:08 UTC] PHP Notice:  Undefined index: id_siswa in /home/rsmagesi/public_html/pengaduan_act.php on line 5
+[26-Jan-2025 05:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:26:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/rsmagesi/public_html/pengaduan_act.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rsmagesi/public_html/pengaduan_act.php on line 24
+[26-Jan-2025 05:29:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 11
+[26-Jan-2025 05:29:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/rsmagesi/public_html/pengaduan_act.php on line 11
+[26-Jan-2025 05:31:20 UTC] PHP Notice:  Undefined index: siswa_id in /home/rsmagesi/public_html/pengaduan_act.php on line 5
+[26-Jan-2025 06:09:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rsmagesi/public_html/cek_pengaduan.php on line 129
+[26-Jan-2025 06:10:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rsmagesi/public_html/cek_pengaduan.php on line 129
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rsmagesi/public_html/cek_pengaduan.php on line 3
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rsmagesi/public_html/cek_pengaduan.php on line 3
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/cek_pengaduan.php on line 6
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 6
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 7
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/cek_pengaduan.php on line 10
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 10
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Undefined variable: koneksi in /home/rsmagesi/public_html/cek_pengaduan.php on line 11
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 11
+[26-Jan-2025 12:55:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/rsmagesi/public_html/cek_pengaduan.php on line 20
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 24
+[26-Jan-2025 12:55:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rsmagesi/public_html/cek_pengaduan.php on line 36
+[27-Jan-2025 04:33:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rsmagesi_web_db'@'localhost' (using password: YES) in /home/ulmbiwfi/public_html/koneksi.php on line 8
+[27-Jan-2025 07:30:24 UTC] PHP Notice:  Undefined index: data in /home/ulmbiwfi/public_html/ajax.php on line 3
