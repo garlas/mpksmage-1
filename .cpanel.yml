@@ -1,0 +1,21 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/example/public_html/
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp ajax.php $DEPLOYPATH
+    - /bin/cp cek_pengaduan.php $DEPLOYPATH
+    - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
+    - /bin/cp hubungi.php $DEPLOYPATH
+    - /bin/cp koneksi.php $DEPLOYPATH
+    - /bin/cp login_act.php $DEPLOYPATH
+    - /bin/cp login.php $DEPLOYPATH
+    - /bin/cp pengaduan_act.php $DEPLOYPATH
+    - /bin/cp pengaduan.php $DEPLOYPATH
+    - /bin/cp single.php $DEPLOYPATH
+    - /bin/cp tentang.php $DEPLOYPATH
+    - /bin/cp -R admin $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R assets2 $DEPLOYPATH
+    - /bin/cp -R image $DEPLOYPATH
+    - /bin/cp -R petugas $DEPLOYPATH
