@@ -14,23 +14,29 @@
         <div class="about">
             <div class="about home-about">
                 <div class="container">
-
                     <div class="row">
                         <div class="col-md-12 md-margin-bottom-40">
                             <div class="card small">
                                 <div class="card-content">
                                     <br/>
-                                    <table class="table table-bordered">
-                                        <tr>
-                                            <th>WhatsApp</th>
-                                            <td>+62 851-5066-6093</td>
+                                    <table class="table table-bordered" style="width: 100%; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                                        <tr style="background-color: #f8f9fa; text-align: left;">
+                                            <th style="padding: 12px;">WhatsApp</th>
+                                            <td style="padding: 12px;">
+                                                <a href="https://wa.me/6285150666093" target="_blank" style="color: #25d366; text-decoration: none; font-weight: bold;">
+                                                    +62 851-5066-6093
+                                                </a>
+                                            </td>
                                         </tr>
-                                        <tr>
-                                            <th>Email</th>
-                                            <td>AspirasiMpk@gmail.com</td>
+                                        <tr style="background-color: #ffffff; text-align: left;">
+                                            <th style="padding: 12px;">Email</th>
+                                            <td style="padding: 12px;">
+                                                <a href="mailto:garinnugroho1345@gmail.com style="color: #007bff; text-decoration: none; font-weight: bold;">
+                                                    AspirasiMpk@gmail.com
+                                                </a>
+                                            </td>
                                         </tr>
                                     </table>
-                                    <br/>
                                     <br/>
                                     <p>
                                     Jangan ragu untuk menghubungi kami melalui WhatsApp atau email. Tim kami siap membantu dengan segala pertanyaan, saran, atau aspirasi yang Anda miliki.
@@ -42,7 +48,6 @@
                             </div>        
                         </div>
                     </div>
-
                     <br> 
                 </div> 
             </div>
