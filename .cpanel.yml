@@ -14,8 +14,3 @@ deployment:
     - /bin/cp pengaduan.php $DEPLOYPATH
     - /bin/cp single.php $DEPLOYPATH
     - /bin/cp tentang.php $DEPLOYPATH
-    - /bin/cp -R admin $DEPLOYPATH
-    - /bin/cp -R assets $DEPLOYPATH
-    - /bin/cp -R assets2 $DEPLOYPATH
-    - /bin/cp -R image $DEPLOYPATH
-    - /bin/cp -R petugas $DEPLOYPATH
