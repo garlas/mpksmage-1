@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "ulmbiwfi_aspirasi_db"; // Ganti sesuai username MySQL
+$username = "ulmbiwfi_aspirasi_d"; // Ganti sesuai username MySQL
 $password = "WN_sqthZu2M3_g7";     // Ganti jika ada password
 $dbname = "ulmbiwfi_aspirasi_db";
 
