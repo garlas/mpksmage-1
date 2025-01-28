@@ -11,7 +11,7 @@ if (isset($_GET['id_aspirasi'])) {
     // Jalankan query
     if (mysqli_query($koneksi, $query)) {
         // Redirect ke halaman daftar aspirasi setelah berhasil
-        header('Location: pengaduan.php'); // Sesuaikan dengan halaman yang diinginkan
+        header('Location: aspirasi.php'); // Sesuaikan dengan halaman yang diinginkan
         exit();
     } else {
         // Menampilkan pesan error jika penghapusan gagal
