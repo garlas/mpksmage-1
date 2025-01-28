@@ -11,6 +11,35 @@
     .about-image img {
         margin-bottom: 20px;
     }
+
+    .section-padding {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    color: #333;
+}
+
+.section-padding h2 {
+    font-weight: 700;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #222;
+}
+
+.section-padding p {
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.section-padding ul {
+    padding-left: 20px;
+}
+
+.section-padding ul li {
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
 </style>
 
 <section id="banner">
