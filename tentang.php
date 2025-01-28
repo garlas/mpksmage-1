@@ -3,7 +3,7 @@
     .card.custom-card {
     background: linear-gradient(135deg, #ffffff, #f9f9f9);
     border-radius: 15px;
-    padding: 25px;
+    padding: 30px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -16,7 +16,7 @@
 .card-content {
     color: #333;
     font-family: 'Poppins', sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 1.8;
     text-align: justify;
 }
@@ -27,20 +27,6 @@
     margin-bottom: 15px;
     text-align: center;
     color: #007bff;
-}
-
-.pageTitle {
-    font-size: 36px;
-    font-weight: bold;
-    color: #007bff;
-    margin-bottom: 20px;
-}
-
-#inner-headline {
-    background-color: #f4f4f4;
-    padding: 50px 0;
-    text-align: center;
-    border-bottom: 2px solid #007bff;
 }
 
 </style>
