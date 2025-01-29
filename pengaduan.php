@@ -37,6 +37,16 @@
                                     }
                                     ?>
 
+                                    <!-- Menampilkan ID Aspirasi jika sudah terkirim -->
+                                    <?php 
+                                    if(isset($_GET['id_aspirasi'])){
+                                        $id_aspirasi = $_GET['id_aspirasi'];
+                                        echo '<div class="alert alert-info text-center">
+                                                ID Aspirasi Anda: ' . $id_aspirasi . ' 
+                                              </div>';
+                                    }
+                                    ?>
+
                                     <br/>
                                     <form action="pengaduan_act.php" method="post">
                                         <p class="text-center">Silahkan pilih Kategori Masukan Yang Ingin Anda Kirim</p>
@@ -66,15 +76,7 @@
                                         <input type="submit" value="Kirim" class="btn btn-primary">
                                     </form>
 
-                                    <!-- Menampilkan ID Aspirasi jika sudah terkirim -->
-                                    <?php 
-                                    if(isset($_GET['id_aspirasi'])){
-                                        $id_aspirasi = $_GET['id_aspirasi'];
-                                        echo '<div class="alert alert-info text-center">
-                                                ID Aspirasi Anda: ' . $id_aspirasi . ' 
-                                              </div>';
-                                    }
-                                    ?>
+                        
 
                                 </div>
                             </div>
