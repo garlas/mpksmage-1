@@ -53,7 +53,7 @@
     <br/>
 
     <!-- Input ID Aspirasi (Minimal 4 dan Maksimal 8 Digit) -->
-       <label>Masukkan ID Aspirasi (4-8 Digit Angka)</label>    
+       <label>Buat ID Aspirasi (4-8 Digit Angka)</label>    
        <input type="text" class="form-control" name="id_aspirasi" pattern="\d{4,8}" 
        title="Harus terdiri dari 4 hingga 8 digit angka" required maxlength="8">
 
