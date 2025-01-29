@@ -35,6 +35,7 @@
                                     include '../koneksi.php'; // Pastikan file koneksi sudah terhubung
                                     $no = 1;
                                     $data = mysqli_query($koneksi, "SELECT 
+                                        a.aspirasi_id
                                         a.id_aspirasi, 
                                         a.waktu_aspirasi, 
                                         s.nama_siswa, 

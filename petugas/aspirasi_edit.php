@@ -10,7 +10,7 @@
                 <!-- Traffic sources -->
                 <div class="panel panel-flat">
                     <div class="panel-heading">
-                        <h4 class="panel-title">Update Data Aspirasi</h4>
+                        <h4 class="panel-title">UPDATE DATA ASPIRASI</h4>
                         <div class="heading-elements">
                             <a href="aspirasi.php" class="btn btn-sm btn-primary"><i class="icon-arrow-left12"></i> KEMBALI</a>
                         </div>
