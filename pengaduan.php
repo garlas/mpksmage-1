@@ -52,10 +52,11 @@
     <p class="text-center">Silahkan pilih Kategori Masukan Yang Ingin Anda Kirim</p>
     <br/>
 
-    <!-- Input ID Aspirasi Manual (4 Digit) -->
-    <label>Masukkan ID Aspirasi (4 Digit Angka)</label>    
-    <input type="text" class="form-control" name="id_aspirasi" pattern="\d{4}" 
-           title="Harus terdiri dari 4 digit angka" required maxlength="4">
+    <!-- Input ID Aspirasi (Minimal 4 dan Maksimal 8 Digit) -->
+       <label>Masukkan ID Aspirasi (4-8 Digit Angka)</label>    
+       <input type="text" class="form-control" name="id_aspirasi" pattern="\d{4,8}" 
+       title="Harus terdiri dari 4 hingga 8 digit angka" required maxlength="8">
+
     <br/>
 
     <!-- Dropdown untuk memilih siswa -->
