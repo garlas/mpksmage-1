@@ -39,7 +39,7 @@
 
                                     <br/>
                                     <form action="pengaduan_act.php" method="post">
-                                        <p class="text-center">Silahkan pilih jenis Masukan Yang Ingin Anda Kirim</p>
+                                        <p class="text-center">Silahkan pilih Kategori Masukan Yang Ingin Anda Kirim</p>
                                         <br/>
                                         <!-- Dropdown untuk memilih siswa -->
                                         <label>Pilih Kategori Masukan</label>    
