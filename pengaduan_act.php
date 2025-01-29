@@ -11,9 +11,9 @@ $query = "INSERT INTO aspirasi (id_aspirasi, id_siswa, isi_aspirasi, waktu_aspir
           VALUES ('$id_aspirasi', '$id_siswa', '$isi', '$waktu_aspirasi', 0)";
 
 if(mysqli_query($koneksi, $query)){
-    header("Location: layanan_aspirasi.php?pesan=sukses&id_aspirasi=$id_aspirasi");
+    header("Location: pengaduan.php?pesan=sukses&id_aspirasi=$id_aspirasi");
 } else {
-    header("Location: layanan_aspirasi.php?pesan=error_insert");
+    header("Location: pengaduan.php?pesan=error_insert");
 }
 
 ?>
