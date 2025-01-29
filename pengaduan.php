@@ -49,32 +49,37 @@
 
                                     <br/>
                                     <form action="pengaduan_act.php" method="post">
-                                        <p class="text-center">Silahkan pilih Kategori Masukan Yang Ingin Anda Kirim</p>
-                                        <br/>
-                                        <!-- Dropdown untuk memilih siswa -->
-                                        <label>Pilih Kategori Masukan</label>    
-                                        <select class="form-control" name="id_siswa" required>
-                                            <option value="" disabled selected>-- Pilih Kategori Masukan --</option>
-                                            <?php
-                                            include "koneksi.php"; // Pastikan koneksi ke database
-                                            $query = "SELECT siswa_id, nama_siswa FROM siswa ORDER BY nama_siswa ASC";
-                                            $result = mysqli_query($koneksi, $query);
-                                            while ($row = mysqli_fetch_assoc($result)) {
-                                                echo '<option value="'.$row['siswa_id'].'">'.$row['nama_siswa'].'</option>';
-                                            }
-                                            ?>
-                                        </select>
-                                        <br/>
+    <p class="text-center">Silahkan pilih Kategori Masukan Yang Ingin Anda Kirim</p>
+    <br/>
 
-                                        <label>Isi Masukan Anda</label>    
-                                        <textarea class="form-control" style="resize: none;" name="isi" required></textarea>
-                                        <br/>
+    <!-- Input ID Aspirasi Manual (4 Digit) -->
+    <label>Masukkan ID Aspirasi (4 Digit Angka)</label>    
+    <input type="text" class="form-control" name="id_aspirasi" pattern="\d{4}" 
+           title="Harus terdiri dari 4 digit angka" required maxlength="4">
+    <br/>
 
-                                        <!-- Menambahkan ID Aspirasi yang di-generate -->
-                                        <input type="hidden" name="id_aspirasi" value="<?php echo sprintf("%04d", rand(1, 9999)); ?>" />
+    <!-- Dropdown untuk memilih siswa -->
+    <label>Pilih Kategori Masukan</label>    
+    <select class="form-control" name="id_siswa" required>
+        <option value="" disabled selected>-- Pilih Kategori Masukan --</option>
+        <?php
+        include "koneksi.php";
+        $query = "SELECT siswa_id, nama_siswa FROM siswa ORDER BY nama_siswa ASC";
+        $result = mysqli_query($koneksi, $query);
+        while ($row = mysqli_fetch_assoc($result)) {
+            echo '<option value="'.$row['siswa_id'].'">'.$row['nama_siswa'].'</option>';
+        }
+        ?>
+    </select>
+    <br/>
 
-                                        <input type="submit" value="Kirim" class="btn btn-primary">
-                                    </form>
+    <label>Isi Masukan Anda</label>    
+    <textarea class="form-control" style="resize: none;" name="isi" required></textarea>
+    <br/>
+
+    <input type="submit" value="Kirim" class="btn btn-primary">
+</form>
+
 
                         
 
