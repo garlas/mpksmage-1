@@ -142,12 +142,12 @@
 
                                     <?php } else { ?>
                                         <form action="cek_pengaduan.php" method="get">
-                                            <p class="text-center">Silahkan Pilih Jenis Masukan Yang Telah Anda Kirim</p>
+                                            <p class="text-center">Silahkan Pilih Kategori Masukan Yang Telah Anda Kirim</p>
                                             <br/>
                                             
-                                            <label>Pilih Jenis Masukan</label>
+                                            <label>Pilih Kategori Masukan</label>
                                             <select class="form-control" name="jenis_aspirasi" required>
-                                                <option value="" disabled selected>-- Pilih Jenis Masukan --</option>
+                                                <option value="" disabled selected>-- Pilih Kategori Masukan --</option>
                                                 <?php
                                                 // Ambil data siswa untuk dropdown, kecuali siswa dengan ID 6
                                                 $result = mysqli_query($koneksi, "SELECT siswa_id, nama_siswa FROM siswa WHERE siswa_id != 6");

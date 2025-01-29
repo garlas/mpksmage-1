@@ -27,7 +27,7 @@
                                             </div>';
                                         } elseif($_GET['pesan'] == "failed"){
                                             echo '<div style="width: 100%" class="alert text-center alert-danger">
-                                                MAAF! ID SISWA ANDA TIDAK DITEMUKAN ATAU BELUM TERDAFTAR. SILAHKAN HUBUNGI ADMIN.
+                                                MAAF! ID LAYANAN ANDA TIDAK DITEMUKAN ATAU BELUM TERDAFTAR. SILAHKAN HUBUNGI ADMIN.
                                             </div>';
                                         } elseif($_GET['pesan'] == "error_insert"){
                                             echo '<div style="width: 100%" class="alert text-center alert-danger">
@@ -42,9 +42,9 @@
                                         <p class="text-center">Silahkan pilih jenis Masukan Yang Ingin Anda Kirim</p>
                                         <br/>
                                         <!-- Dropdown untuk memilih siswa -->
-                                        <label>Pilih Jenis Masukan</label>    
+                                        <label>Pilih Kategori Masukan</label>    
                                         <select class="form-control" name="id_siswa" required>
-                                            <option value="" disabled selected>-- Pilih Jenis Masukan --</option>
+                                            <option value="" disabled selected>-- Pilih Kategori Masukan --</option>
                                             <?php
                                             include "koneksi.php"; // Pastikan koneksi ke database
                                             $query = "SELECT siswa_id, nama_siswa FROM siswa ORDER BY nama_siswa ASC";
