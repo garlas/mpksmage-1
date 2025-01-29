@@ -24,7 +24,7 @@ if (isset($_GET['id']) && isset($_GET['status'])) {
     }
 
     // Update status pengaduan
-    $update = mysqli_query($koneksi, "UPDATE aspirasi SET status_aspirasi='$status_pengaduan' WHERE id_aspirasi='$id_pengaduan'");
+    $update = mysqli_query($koneksi, "UPDATE aspirasi SET status_aspirasi='$status_pengaduan' WHERE aspirasi_id='$id_pengaduan'");
 
     if ($update) {
         // Redirect ke halaman sebelumnya setelah berhasil update

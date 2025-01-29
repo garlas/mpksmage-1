@@ -21,11 +21,11 @@
 
                                 <?php 
                                 // Ambil ID dari URL dan sanitasi
-                                if (isset($_GET['id_aspirasi'])) {
-                                    $id = mysqli_real_escape_string($koneksi, $_GET['id_aspirasi']);
+                                if (isset($_GET['aspirasi_id'])) {
+                                    $id = mysqli_real_escape_string($koneksi, $_GET['aspirasi_id']);
                                     
                                     // Query untuk mengambil data aspirasi berdasarkan id
-                                    $data = mysqli_query($koneksi, "SELECT * FROM aspirasi WHERE id_aspirasi = '$id'");
+                                    $data = mysqli_query($koneksi, "SELECT * FROM aspirasi WHERE aspirasi_id = '$id'");
                                     
                                     // Cek apakah data ditemukan
                                     if (mysqli_num_rows($data) > 0) {
@@ -57,7 +57,7 @@
                                         </tr>
                                         <tr>
                                             <th></th>
-                                            <td><input type="hidden" name="id" value="<?php echo $d['id_aspirasi']; ?>"><input type="submit" value="SIMPAN" class="btn btn-sm btn-primary"></td>
+                                            <td><input type="hidden" name="id" value="<?php echo $d['aspirasi_id']; ?>"><input type="submit" value="SIMPAN" class="btn btn-sm btn-primary"></td>
                                         </tr>        
                                     </table>
                                 <?php 

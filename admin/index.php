@@ -96,8 +96,8 @@
                                         <tr>
                                             <th width="1%">NO</th>
                                             <th>WAKTU ASPIRASI</th>
-                                            <th>ID SISWA</th>
-                                            <th width="15%">NAMA PENGIRIM</th>
+                                            <th>ID LAYANAN</th>
+                                            <th width="15%">NAMA LAYANAN</th>
                                             <th>STATUS</th>
                                         </tr>
                                     </thead>

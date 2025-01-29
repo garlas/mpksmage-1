@@ -6,7 +6,7 @@ if (isset($_GET['id_aspirasi'])) {
     $id_aspirasi = $_GET['id_aspirasi'];
 
     // Query untuk menghapus aspirasi dengan ID yang diberikan
-    $query = "DELETE FROM aspirasi WHERE id_aspirasi = '$id_aspirasi'";
+    $query = "DELETE FROM aspirasi WHERE aspirasi_id = '$aspirasi_id'";
 
     // Jalankan query
     if (mysqli_query($koneksi, $query)) {

@@ -64,8 +64,8 @@
                                             </td>
 
                                             <td>
-                                                <a class="btn border-teal text-teal btn-flat btn-icon btn-xs" href="aspirasi_edit.php?id_aspirasi=<?php echo $d['id_aspirasi']; ?>"><i class="icon-wrench3"></i> UBAH STATUS</a>
-                                                <a class="btn border-danger text-danger btn-flat btn-icon btn-xs" href="aspirasi_hapus.php?id_aspirasi=<?php echo $d['id_aspirasi']; ?>"><i class="icon-trash-alt"></i> HAPUS</a>
+                                                <a class="btn border-teal text-teal btn-flat btn-icon btn-xs" href="aspirasi_edit.php?id_aspirasi=<?php echo $d['aspirasi_id']; ?>"><i class="icon-wrench3"></i> UBAH STATUS</a>
+                                                <a class="btn border-danger text-danger btn-flat btn-icon btn-xs" href="aspirasi_hapus.php?id_aspirasi=<?php echo $d['aspirasi_id']; ?>"><i class="icon-trash-alt"></i> HAPUS</a>
                                             </td>
                                         </tr>
                                         <?php

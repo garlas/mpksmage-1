@@ -21,8 +21,8 @@
                                     <tr>
                                         <th width="1%">No</th>
                                         <th width="15%">WAKTU ASPIRASI</th>
-                                        <th width="10%">ID SISWA</th>
-                                        <th width="17%">DATA SISWA</th>
+                                        <th width="10%">ID LAYANAN</th>
+                                        <th width="17%">NAMA LAYANAN</th>
                                         <th>ISI ASPIRASI</th>
                                         <th width="16%">STATUS ASPIRASI</th>
                                     </tr>
@@ -42,18 +42,14 @@
                                             <td><?php echo $d['id_siswa']; ?></td>
                                             <td>
                                                 <b>NAMA: </b><?php echo $d['nama_siswa']; ?><br>
-                                                <b>KELAS: </b><?php echo $d['kelas']; ?><br>
-                                                <b>JENIS KELAMIN: </b><?php echo $d['jenis_kelamin']; ?><br>
-                                                <b>ALAMAT: </b><?php echo $d['alamat']; ?><br>
-                                                <b>TELEPON: </b><?php echo $d['telepon']; ?>
                                             </td>
                                             <td><?php echo $d['isi_aspirasi']; ?></td>
                                             <td>
                                                 <center>
                                                     <?php
                                                     if ($d['status_aspirasi'] == 0) {
-                                                        echo '<a href="/admin/konfirmasi_pengaduan.php?id=' . $d['id_aspirasi'] . '&status=1" class="btn btn-success">Konfirmasi</a>
-                                                        <a href="/admin/konfirmasi_pengaduan.php?id=' . $d['id_aspirasi'] . '&status=2" class="btn btn-danger">Tolak</a>';
+                                                        echo '<a href="/admin/konfirmasi_pengaduan.php?id=' . $d['aspirasi_id'] . '&status=1" class="btn btn-success">Konfirmasi</a>
+                                                        <a href="/admin/konfirmasi_pengaduan.php?id=' . $d['aspirasi_id'] . '&status=2" class="btn btn-danger">Tolak</a>';
                                                     } elseif ($d['status_aspirasi'] == 1) {
                                                         echo '<span class="label label-success">Dikonfirmasi</span>';
                                                     } elseif ($d['status_aspirasi'] == 2) {

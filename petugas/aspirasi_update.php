@@ -9,7 +9,7 @@ if (isset($_POST['id']) && isset($_POST['isi_aspirasi']) && isset($_POST['status
     $status = mysqli_real_escape_string($koneksi, $_POST['status']);  // Sanitasi input status
 
     // Query untuk memperbarui data aspirasi
-    $update = mysqli_query($koneksi, "UPDATE aspirasi SET isi_aspirasi = '$isi_aspirasi', status_aspirasi = '$status' WHERE id_aspirasi = '$id'");
+    $update = mysqli_query($koneksi, "UPDATE aspirasi SET isi_aspirasi = '$isi_aspirasi', status_aspirasi = '$status' WHERE aspirasi_id = '$id'");
 
     // Mengecek apakah pembaruan berhasil
     if ($update) {

@@ -11,7 +11,7 @@
 				<!-- Traffic sources -->
 				<div class="panel panel-flat">
 					<div class="panel-heading">
-						<h4 class="panel-title">Data Siswa</h4>
+						<h4 class="panel-title">Data Layanan</h4>
 						<div class="heading-elements">
 							<!-- Optional Heading Elements -->
 						</div>
@@ -22,11 +22,8 @@
 								<thead>
 									<tr>
 										<th width="1%">No</th>
-										<th width="15%">ID Siswa</th>
-										<th width="15%">Nama Siswa</th>
-										<th>Jenis Kelamin</th>		
-										<th>Alamat</th>		
-										<th>No Telp</th>																					
+										<th width="15%">ID Layanan</th>
+										<th width="15%">Nama Layanan</th>																				
 									</tr>
 								</thead>
 								<tbody>
@@ -38,10 +35,7 @@
 									<tr>
 										<td><?php echo $no++; ?></td>
 										<td><?php echo $d['siswa_id']; ?></td>
-										<td><?php echo $d['nama_siswa']; ?></td>
-										<td><?php echo $d['jenis_kelamin']; ?></td>			
-										<td><?php echo $d['alamat']; ?></td>			
-										<td><?php echo $d['telepon']; ?></td>																						
+										<td><?php echo $d['nama_siswa']; ?></td>																					
 									</tr>
 									<?php
 								}
