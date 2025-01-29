@@ -21,7 +21,6 @@
                                     <tr>
                                         <th width="1%">No</th>
                                         <th width="15%">WAKTU ASPIRASI</th>
-                                        <th width="10%">ID LAYANAN</th>
                                         <th width="17%">NAMA LAYANAN</th>
                                         <th width="15%">ID USER</th>
                                         <th>ISI ASPIRASI</th>
@@ -40,10 +39,9 @@
                                         <tr>
                                             <td><?php echo $no++; ?></td>
                                             <td><?php echo date('H:i | d-m-Y', strtotime($d['waktu_aspirasi'])); ?></td>
-                                            <td><?php echo $d['id_siswa']; ?></td>
-                                            <td><?php echo $d['id_aspirasi']; ?></td>
+                                            <td><?php echo $d['nama_siswa']; ?></td>
                                             <td>
-                                                <b>NAMA: </b><?php echo $d['nama_siswa']; ?><br>
+                                                <b>ID USER = </b><?php echo $d['id_aspirasi']; ?><br>
                                             </td>
                                             <td><?php echo $d['isi_aspirasi']; ?></td>
                                             <td>
