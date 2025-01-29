@@ -1,26 +1,19 @@
 <?php
 include "koneksi.php";
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Ambil data dari form
-    $id_aspirasi = $_POST['id_aspirasi'];  // ID Aspirasi yang di-generate
-    $id_siswa = $_POST['id_siswa'];        // ID Siswa
-    $isi = mysqli_real_escape_string($koneksi, $_POST['isi']);  // Isi Aspirasi
-    $waktu_aspirasi = date('Y-m-d H:i:s');
-    $status_aspirasi = 0; // Status 0 berarti belum diproses
+$id_aspirasi = mysqli_real_escape_string($koneksi, $_POST['id_aspirasi']);
+$id_siswa = mysqli_real_escape_string($koneksi, $_POST['id_siswa']);
+$isi = mysqli_real_escape_string($koneksi, $_POST['isi']);
+$waktu_aspirasi = date("Y-m-d");
 
-    // Masukkan data aspirasi ke dalam database
-    $query = "INSERT INTO aspirasi (id_aspirasi, id_siswa, isi_aspirasi, waktu_aspirasi, status_aspirasi) 
-              VALUES ('$id_aspirasi', '$id_siswa', '$isi', '$waktu_aspirasi', '$status_aspirasi')";
+// Simpan ke database
+$query = "INSERT INTO aspirasi (id_aspirasi, id_siswa, isi_aspirasi, waktu_aspirasi, status_aspirasi) 
+          VALUES ('$id_aspirasi', '$id_siswa', '$isi', '$waktu_aspirasi', 0)";
 
-    if (mysqli_query($koneksi, $query)) {
-        // Redirect dengan ID Aspirasi untuk ditampilkan
-        header("Location: pengaduan.php?pesan=sukses&id_aspirasi=" . $id_aspirasi);
-        exit();
-    } else {
-        // Redirect dengan pesan error
-        header("Location: pengaduan.php?pesan=error_insert");
-        exit();
-    }
+if(mysqli_query($koneksi, $query)){
+    header("Location: layanan_aspirasi.php?pesan=sukses&id_aspirasi=$id_aspirasi");
+} else {
+    header("Location: layanan_aspirasi.php?pesan=error_insert");
 }
+
 ?>
