@@ -59,8 +59,23 @@
                                         <label>Isi Masukan Anda</label>    
                                         <textarea class="form-control" style="resize: none;" name="isi" required></textarea>
                                         <br/>
+
+                                        <!-- Menambahkan ID Aspirasi yang di-generate -->
+                                        <input type="hidden" name="id_aspirasi" value="<?php echo sprintf("%04d", rand(1, 9999)); ?>" />
+
                                         <input type="submit" value="Kirim" class="btn btn-primary">
                                     </form>
+
+                                    <!-- Menampilkan ID Aspirasi jika sudah terkirim -->
+                                    <?php 
+                                    if(isset($_GET['id_aspirasi'])){
+                                        $id_aspirasi = $_GET['id_aspirasi'];
+                                        echo '<div class="alert alert-info text-center">
+                                                ID Aspirasi Anda: ' . $id_aspirasi . ' 
+                                              </div>';
+                                    }
+                                    ?>
+
                                 </div>
                             </div>
                         </div>
