@@ -16,7 +16,7 @@
 .card-content {
     color: #333;
     font-family: 'Poppins', sans-serif;
-    font-size: 12px;
+    font-size: 25px;
     line-height: 1.8;
     text-align: justify;
 }
