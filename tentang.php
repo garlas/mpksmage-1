@@ -53,15 +53,6 @@
                                     <p>
                                         MPK adalah badan yang dibentuk dengan tujuan untuk menampung dan menyalurkan aspirasi siswa. Kami percaya bahwa setiap suara memiliki peran penting dalam membentuk lingkungan belajar yang lebih baik dan inklusif.
                                     </p>
-                                    <p>
-                                        Melalui berbagai program inovatif seperti <strong>Kotak Aspirasi</strong>, <strong>Website Aspirasi</strong>, dan <strong>Hari Aspirasi</strong>, kami berusaha untuk memberikan platform yang mudah diakses oleh seluruh siswa. Kami juga secara rutin menyusun laporan dan rekomendasi berdasarkan aspirasi yang diterima untuk disampaikan kepada pihak sekolah.
-                                    </p>
-                                    <p>
-                                        Tujuan kami adalah menciptakan lingkungan yang mendukung perkembangan akademik dan non-akademik siswa, serta memastikan bahwa setiap siswa merasa didengar dan dihargai.
-                                    </p>
-                                    <p>
-                                        Bergabunglah bersama kami dalam upaya membangun masa depan yang lebih cerah dan penuh semangat.
-                                    </p>
                                 </div>
                             </div>        
                         </div>
