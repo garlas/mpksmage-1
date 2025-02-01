@@ -65,6 +65,11 @@
         <section class="services">
             <div class="row">
                 <div class="col-md-12">
+                    <a href="pengaduan.php">kirim aspirasi</a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
                     <div class="aligncenter"><h2 class="aligncenter">PROGRAM KAMI</h2></div>
                     <br/>
                 </div>
