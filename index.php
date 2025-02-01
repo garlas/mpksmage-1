@@ -139,14 +139,12 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
                 <div class="about-text">
-                    <p>Kami adalah Majelis Perwakilan Kelas (MPK) yang berdedikasi untuk mendengarkan dan menindaklanjuti aspirasi siswa. Dengan beragam program seperti Kotak Aspirasi, Website Aspirasi, dan Hari Aspirasi, kami berkomitmen untuk membawa perubahan positif bagi lingkungan sekolah.</p>
-                    <p>Dalam setiap langkah, kami berupaya memastikan bahwa setiap suara didengar dan dihargai. Kami percaya bahwa partisipasi aktif dari seluruh siswa adalah kunci untuk menciptakan lingkungan belajar yang lebih baik dan inklusif.</p>
-                    <ul class="withArrow">
-                        <li><span class="fa fa-angle-right"></span> Menyediakan Kotak Aspirasi di beberapa tempat</li>
-                        <li><span class="fa fa-angle-right"></span> Menyediakan Website Aspirasi untuk kemudahan siswa dalam menyuarakan aspirasi/saran/kritik</li>
-                        <li><span class="fa fa-angle-right"></span> Mengadakan Hari Aspirasi setiap akan diadakannya acara</li>
-                        <li><span class="fa fa-angle-right"></span> Menyusun laporan dan rekomendasi berdasarkan aspirasi siswa</li>
-                    </ul>
+                    <strong>Salam Pelajar!</strong>
+                    <p>Halo teman-teman SMANSAGE!</p>
+                    <p>Kami dari MPK Komisi Aspirasi menyediakan form yang ditujukan kepada seluruh siswa sebagai wadah untuk menyampaikan aspirasi terkait fasilitas, kegiatan sekolah, maupun hal lainnya yang dapat meningkatkan kenyamanan dan kemajuan sekolah kita.</p>
+                    <p>Diharapkan seluruh siswa SMANSAGE dapat berpartisipasi dalam menyampaikan aspirasi kalian.</p>
+                    <p>Kami tunggu aspirasi kalian!</p>
+                    <a href="hubungi.php">📌 For more information</a>
                     <a href="tentang.php" class="btn btn-primary waves-effect waves-dark">Learn More</a>
                 </div>
             </div>
