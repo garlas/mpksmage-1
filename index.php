@@ -40,6 +40,30 @@
     margin-bottom: 10px;
 }
 
+.floating-button {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #007BFF;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+    z-index: 1000;
+}
+
+.floating-button:hover {
+    background-color: #0056b3;
+    transform: translateX(-50%) scale(1.1);
+}
+
+
 </style>
 
 <section id="banner">
@@ -64,8 +88,8 @@
     <div class="container">
         <section class="services">
             <div class="row">
-                <div class="col-md-12">
-                    <a href="pengaduan.php">kirim aspirasi</a>
+                <div class="col-md-115">
+                <a href="pengaduan.php" class="floating-button">Kirim Aspirasi 📩</a>
                 </div>
             </div>
             <div class="row">
